@@ -10,7 +10,7 @@ Steps to be Followed to run the application in Local.
 1) Create a virtual environment. [virtualenv venv]
 2) Requirements.txt files contains all the neccessary dependencies.
 3) Run the server from local.
-4) To add data run the script populate_data.py which has 2 function ( CreateUser and CreateActivityData )
+4) To add data run the script populate_data.py from terminal which has 2 function ( CreateUser and CreateActivityData )
     > Both takes single argument n (number of records to be created).
     
 Heroku App:
