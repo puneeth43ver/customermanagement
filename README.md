@@ -1,0 +1,2 @@
+# customermanagement
+Django Rest Service
