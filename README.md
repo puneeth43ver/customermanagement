@@ -1,4 +1,4 @@
-# customermanagement
+# CustomerActivityManagement
 Django Rest Service
 
 Django Application hosted on heroku with User and Activity Period prepopulated.
