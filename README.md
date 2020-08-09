@@ -17,6 +17,8 @@ Heroku App:
 URL: https://customermanagementdetails.herokuapp.com/customerdetails/
 
 > I have removed Django build in static files and json is rendered in a default way.
+> This application can be readily deployed to Heroku/Azure/AWS.
+> ProcFile is added for deployment.
 
 
 
